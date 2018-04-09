@@ -1,0 +1,15 @@
+{
+  "name": "sychify",
+  "version": "0.0.1",
+  "description": "use async-await pattern on any function that's using callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "await"
+  ],
+  "author": "Ami Turgman <ami.turgman@gmail.com>",
+  "license": "MIT"
+}
