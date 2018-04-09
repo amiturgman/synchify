@@ -1,5 +1,5 @@
 {
-  "name": "sychify",
+  "name": "synchify",
   "version": "0.0.1",
   "description": "use async-await pattern on any function that's using callbacks",
   "main": "index.js",
